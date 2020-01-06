@@ -103,7 +103,7 @@ Wineries in South Africa:
 
 I wanted to find the wine varieties in the dataset that contained the phrases 'carmelized', 'lemon-lime soda', and 'cherry-berry'. This could be done by looping through both the variety and description of each wine and then returning the variety where the description contained the phrase. 
   
-  img
+<img src="Descriptions.png" width="400">
   
 #### Winery that Produced the Highest Priced Wine in the US
 
